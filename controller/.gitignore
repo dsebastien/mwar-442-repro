@@ -1,0 +1,9 @@
+######################
+# Project Specific
+######################
+/target/www/**
+/src/test/javascript/coverage/
+/src/test/javascript/PhantomJS*/
+keystore-dev.p12
+rootCA-key.pem
+rootCA.pem

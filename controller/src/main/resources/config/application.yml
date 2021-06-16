@@ -1,0 +1,12 @@
+spring:
+  profiles:
+    active: dev
+    include: swagger
+  devtools:
+    restart:
+      enabled: true
+    livereload:
+server:
+  port: 8080
+
+
